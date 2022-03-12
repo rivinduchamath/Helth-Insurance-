@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T12:55:30.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oBtMz3_tDx-UTXvFcnBq" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T12:56:24.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1KCvkeqHy5fMtuhLuRVj" version="17.1.2" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="3288" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,27 +419,27 @@
           <mxGeometry x="2400" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zCK_g5lJNB62o4PVmk3n-95" value="Insurance Availability" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="90" width="120" height="70" as="geometry" />
+          <mxGeometry x="2398" y="86" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zCK_g5lJNB62o4PVmk3n-96" value="Insurance Payment&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="2400" y="180" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zCK_g5lJNB62o4PVmk3n-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zCK_g5lJNB62o4PVmk3n-94">
+        <mxCell id="zCK_g5lJNB62o4PVmk3n-97" value="" style="endArrow=none;html=1;rounded=0;entryX=1.029;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zCK_g5lJNB62o4PVmk3n-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2550" y="80" as="sourcePoint" />
+            <mxPoint x="2550" y="40" as="sourcePoint" />
             <mxPoint x="2500" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zCK_g5lJNB62o4PVmk3n-98" value="" style="endArrow=none;html=1;rounded=0;entryX=0.967;entryY=0.729;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zCK_g5lJNB62o4PVmk3n-96">
+        <mxCell id="zCK_g5lJNB62o4PVmk3n-98" value="" style="endArrow=none;html=1;rounded=0;entryX=1.014;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zCK_g5lJNB62o4PVmk3n-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2550" y="200" as="sourcePoint" />
+            <mxPoint x="2550" y="220" as="sourcePoint" />
             <mxPoint x="2450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCK_g5lJNB62o4PVmk3n-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2550" y="80" as="sourcePoint" />
-            <mxPoint x="2550" y="200" as="targetPoint" />
+            <mxPoint x="2550" y="40" as="sourcePoint" />
+            <mxPoint x="2550" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCK_g5lJNB62o4PVmk3n-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zCK_g5lJNB62o4PVmk3n-95" target="zCK_g5lJNB62o4PVmk3n-92">

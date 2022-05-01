@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:11:14.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WNgX808i2CbNkvVV8Qe0" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T13:49:33.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KMv3xPD5SalzDCZg1f7u" version="17.4.6" type="github">
   <diagram id="NjIt7QyyqGUMBLumx5Jw" name="Page-1">
-    <mxGraphModel dx="572" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-7othUJpbgS-NE_DNb_y-1" value="Make an Insurance Plan" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=60;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="-1040" width="150" height="1350" as="geometry" />
-        </mxCell>
-        <mxCell id="-7othUJpbgS-NE_DNb_y-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="-980" width="30" height="30" as="geometry" />
+          <mxGeometry x="1560" y="-1040" width="890" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="-7othUJpbgS-NE_DNb_y-4" value="Login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1725" y="-920" width="120" height="40" as="geometry" />
@@ -175,10 +172,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-7othUJpbgS-NE_DNb_y-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-7othUJpbgS-NE_DNb_y-2" edge="1">
+        <mxCell id="-7othUJpbgS-NE_DNb_y-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1785" y="-920" as="targetPoint" />
-            <mxPoint x="2130" y="-810" as="sourcePoint" />
+            <mxPoint x="1785" y="-950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-7othUJpbgS-NE_DNb_y-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Check Insurance Details" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=left;" parent="1" vertex="1">
@@ -357,6 +354,9 @@
             <mxPoint x="2105" y="240" as="targetPoint" />
             <mxPoint x="2105" y="180" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XMT6cGYzSt1sTeUz-XWP-1" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#FF3030;" vertex="1" parent="1">
+          <mxGeometry x="1767.5" y="-980" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
